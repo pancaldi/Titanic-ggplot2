@@ -3,7 +3,7 @@
 library(dplyr)
 library(tidyr)
 library(titanic)
-library(ggplot)
+library(ggplot2)
 
 # determine titanic structure
 
